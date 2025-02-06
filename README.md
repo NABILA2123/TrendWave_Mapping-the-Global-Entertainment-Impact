@@ -24,7 +24,7 @@ The project uses various data sources to provide insights into global entertainm
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/HACHIMIATMANE/ETL.git
+   git clone https://github.com/HACHIMIATMANE/TrendWave_Mapping-the-Global-Entertainment-Impact.git
 2. Install dependencies (ensure you have Python 3.x installed):
    pip install -r requirements.txt
 3. Make sure to get API keys and set up credentials for accessing the required platforms (Spotify, Twitter, Google Trends, etc.).
