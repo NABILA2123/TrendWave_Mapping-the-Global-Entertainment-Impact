@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  data_collection:
+    build: ./data_collection
+    depends_on:
+      - db
+  data_processing:
+    build: ./data_preprocessing
+    depends_on:
+      - data_collection
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: culture_analysis
+  analysis:
+    build: ./analysis
+    depends_on:
+      - db
+  api:
+    build: ./api
+    ports:
+      - "8000:8000"
+    depends_on:
+      - analysis
