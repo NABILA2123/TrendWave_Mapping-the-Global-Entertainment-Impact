@@ -1,0 +1,462 @@
+name,popularity,genre
+System of a Down,"13,090",alternative
+Korn,"3,014",alternative
+Deftones,"2,798",alternative
+Oasis,"1,227",alternative
+Gigi Perez,602,alternative
+Nine Inch Nails,550,alternative
+Hozier,521,alternative
+Nick Cave & The Bad Seeds,510,alternative
+Three Days Grace,496,alternative
+The Used,434,alternative
+Pixies,406,alternative
+Death Cab for Cutie,403,alternative
+Bright Eyes,399,alternative
+Cage the Elephant,397,alternative
+Foster the People,376,alternative
+Palace,368,alternative
+Ani DiFranco,349,alternative
+The Weeknd,336,alternative
+Snow Patrol,305,alternative
+Puscifer,300,alternative
+Paris Paloma,283,alternative
+Hollywood Undead,270,alternative
+Devo,266,alternative
+Dropkick Murphys,266,alternative
+Papa Roach,263,alternative
+Beck,260,alternative
+Creed,259,alternative
+OK Go,257,alternative
+Goo Goo Dolls,246,alternative
+Saint Motel,245,alternative
+Ichiko Aoba,237,alternative
+Teddy Swims,751,blues
+Hozier,521,blues
+Palace,368,blues
+The Black Keys,263,blues
+Joe Bonamassa,228,blues
+Larkin Poe,177,blues
+Alabama Shakes,170,blues
+Tom Jones,115,blues
+Tedeschi Trucks Band,102,blues
+Buddy Guy,94,blues
+Bonnie Raitt,92,blues
+MARO,71,blues
+Goose (USA),66,blues
+Vieux Farka Touré,63,blues
+Kenny Wayne Shepherd,60,blues
+Little Feat,60,blues
+Wax Tailor,52,blues
+Kat Edmonson,49,blues
+Dorothy,49,blues
+"Christone ""KINGFISH"" Ingram",44,blues
+Los Lobos,43,blues
+George Thorogood & The Destroyers,43,blues
+Ally Venable Band,39,blues
+Eric Johnson,38,blues
+The Record Company,37,blues
+The Blue Stones,35,blues
+Spin Doctors,34,blues
+Benjamin Booker,34,blues
+Elevation Worship,162,Christian Gospel
+TobyMac,157,Christian Gospel
+MercyMe,119,Christian Gospel
+Josiah Queen,85,Christian Gospel
+Jeremy Camp,85,Christian Gospel
+Cain,75,Christian Gospel
+Zach Williams,55,Christian Gospel
+TAYA,40,Christian Gospel
+Avery*Sunshine,25,Christian Gospel
+Kairo Worship,24,Christian Gospel
+Mavis Staples,23,Christian Gospel
+Ernie Haase and Signature Sound,22,Christian Gospel
+We Are Messengers,19,Christian Gospel
+Morgan Guerin,16,Christian Gospel
+Dave Pettigrew,12,Christian Gospel
+Seph Schlueter,11,Christian Gospel
+Stephen Stanley,9,Christian Gospel
+Alex Harris,9,Christian Gospel
+Bren Joy,8,Christian Gospel
+Redimi2,8,Christian Gospel
+CalledOut Music,7,Christian Gospel
+Yolanda Adams,7,Christian Gospel
+Rufus Wainwright,200,Classical
+Yo-Yo Ma,168,Classical
+HAUSER,158,Classical
+LANG LANG,139,Classical
+Boston Symphony Orchestra,125,Classical
+Ludovico Einaudi,88,Classical
+Yunchan Lim,77,Classical
+Anoushka Shankar,60,Classical
+London Symphony Orchestra,41,Classical
+Daniil Trifonov,33,Classical
+Itzhak Perlman,31,Classical
+Vitamin String Quartet,31,Classical
+Shulem,29,Classical
+Kronos Quartet,24,Classical
+Evgeny Kissin,23,Classical
+Chris Botti,20,Classical
+Gustavo Dudamel,20,Classical
+Anne-Sophie Mutter,20,Classical
+Black Violin,19,Classical
+New York Philharmonic,19,Classical
+Christian Death,18,Classical
+Morgan Guerin,16,Classical
+Brooklyn Rider,15,Classical
+Molly Lewis (Whistler),14,Classical
+Hillary Hahn,14,Classical
+Jake shane,731,Comedy
+Nikki Glaser,229,Comedy
+Caleb Hearon,226,Comedy
+Taylor Tomlinson,158,Comedy
+Heather McMahan,115,Comedy
+Tom Segura,112,Comedy
+Matt Rife,109,Comedy
+Penn and Teller,92,Comedy
+Wanda Sykes,83,Comedy
+Adam Sandler,82,Comedy
+Kevin Hart,77,Comedy
+Jeff Allen,74,Comedy
+Randy Rainbow,73,Comedy
+Ricky Gervais,69,Comedy
+Brad Williams,62,Comedy
+Katt Williams,58,Comedy
+Nate Bargatze,57,Comedy
+"""Weird Al"" Yankovic",57,Comedy
+Hannibal Buress,48,Comedy
+Daniel Tosh,47,Comedy
+Dane Cook,42,Comedy
+Kevin James Thornton,42,Comedy
+Andrew Dice Clay,41,Comedy
+The Craig Ferguson Show,38,Comedy
+Quinn Dale,37,Comedy
+Mike Birbiglia,34,Comedy
+Teddy Swims,751,Country
+Zach Top,562,Country
+Post Malone,542,Country
+Zach Bryan,314,Country
+Thomas Rhett,297,Country
+Dylan Scott,247,Country
+Tyler Childers,246,Country
+Ella Langley,233,Country
+Chris Stapleton,225,Country
+Jelly Roll,203,Country
+Beyoncé,183,Country
+Larkin Poe,177,Country
+Megan Moroney,169,Country
+Blake Shelton,168,Country
+Ha*Ash,162,Country
+Devin Townsend,157,Country
+Riley Green,145,Country
+The Mavericks,130,Country
+Lucinda Williams,109,Country
+Vince Gill,101,Country
+Russell Dickerson,93,Country
+Gavin Adcock,88,Country
+Chase Rice,82,Country
+Kane Brown,74,Country
+Ryan Adams,71,Country
+RÜFÜS DU SOL,359,Electronic
+Rauw Alejandro,351,Electronic
+Hollywood Undead,270,Electronic
+Kraftwerk,267,Electronic
+Empire of the Sun,256,Electronic
+Denzel Curry,253,Electronic
+Dom Dolla,241,Electronic
+Jamie xx,241,Electronic
+Kylie Minogue,214,Electronic
+Thievery Corporation,204,Electronic
+FKA twigs,198,Electronic
+Shpongle (Simon Posford),195,Electronic
+Nils Frahm,169,Electronic
+Four Tet,162,Electronic
+Stray Kids,162,Electronic
+Alan Walker,160,Electronic
+Sultan + Shepard,140,Electronic
+Caravan Palace,140,Electronic
+A R I Z O N A,139,Electronic
+Tamino,137,Electronic
+Maribou State,135,Electronic
+Ben Böhmer,123,Electronic
+DARKSIDE,109,Electronic
+Raye,105,Electronic
+Boy Harsher,95,Electronic
+Zeds Dead,95,Electronic
+Fox Stevenson,95,Electronic
+Daily Bread,93,Electronic
+Faye Webster,492,Folk
+Nathaniel Rateliff & The Night Sweats,376,Folk
+Ani DiFranco,349,Folk
+Gregory Alan Isakov,295,Folk
+Dropkick Murphys,266,Folk
+Cleo Sol,262,Folk
+Tyler Childers,246,Folk
+Ichiko Aoba,237,Folk
+James Blunt,233,Folk
+Larkin Poe,177,Folk
+Wardruna,172,Folk
+Kurt Vile,162,Folk
+The Lumineers,158,Folk
+Dr. Dog,155,Folk
+The Front Bottoms,140,Folk
+Sharon Van Etten,139,Folk
+The Mavericks,130,Folk
+The Avett Brothers,123,Folk
+Lucinda Williams,109,Folk
+Natalia Lafourcade,102,Folk
+Tedeschi Trucks Band,102,Folk
+Lord Huron,99,Folk
+Cécile McLorin Salvant,97,Folk
+Lucy Dacus,93,Folk
+Murder by Death,88,Folk
+Shakey Graves,82,Folk
+Paul Simon,81,Folk
+Raveena Aurora,79,Folk
+Neil Young,77,Folk
+"Tyler, The Creator",828,HipHop
+Kendrick Lamar,641,HipHop
+Post Malone,542,HipHop
+Wu-Tang Clan,272,HipHop
+Hollywood Undead,270,HipHop
+Denzel Curry,253,HipHop
+bbno$,230,HipHop
+Joost,188,HipHop
+The Roots,186,HipHop
+Stray Kids,162,HipHop
+OsamaSon,145,HipHop
+SahBabii,139,HipHop
+Rio Da Yung Og,135,HipHop
+Role Model,125,HipHop
+Smino,122,HipHop
+Nanpa Básico,120,HipHop
+De La Soul,115,HipHop
+Bone Thugs-n-Harmony,94,HipHop
+Daily Bread,93,HipHop
+Playboi Carti,90,HipHop
+Gramatik,81,HipHop
+Connor Price,75,HipHop
+KRS-One,66,HipHop
+Samara Joy,565,Jazz
+Brad Mehldau,144,Jazz
+Caravan Palace,140,Jazz
+Cowboy Bebop LIVE Presented by Bebop Bounty Big Band,117,Jazz
+Sting,114,Jazz
+Herb Alpert,103,Jazz
+Cécile McLorin Salvant,97,Jazz
+Gramatik,81,Jazz
+Lake Street Dive,72,Jazz
+BADBADNOTGOOD,71,Jazz
+Tigran Hamasyan,67,Jazz
+Goose (USA),66,Jazz
+Wax Tailor,53,Jazz
+Kat Edmonson,50,Jazz
+Esperanza Spalding,49,Jazz
+Al Di Meola,49,Jazz
+Wynton Marsalis,46,Jazz
+Pink Martini,45,Jazz
+Eddie Palmieri,39,Jazz
+Eric Johnson,38,Jazz
+49th & Main,38,Jazz
+Trombone Shorty & Orleans Avenue,37,Jazz
+Victor Wooten,32,Jazz
+Spanish Harlem Orchestra,32,Jazz
+Andy Frasco,31,Jazz
+Emmet Cohen,31,Jazz
+Chucho Valdés,31,Jazz
+Shakira,"1,482",Latin
+Rauw Alejandro,351,Latin
+Grupo Niche,200,Latin
+Ha*Ash,162,Latin
+Caifanes,155,Latin
+The Mavericks,130,Latin
+J Balvin,119,Latin
+Kapo,117,Latin
+Natalia Lafourcade,102,Latin
+Yailin La Mas Viral,81,Latin
+Joaquín Sabina,66,Latin
+Deorro,55,Latin
+Cimafunk,51,Latin
+Eslabon Armado,48,Latin
+Los Lobos,43,Latin
+Eddie Palmieri,39,Latin
+Hombres G,37,Latin
+Carlos Rivera,36,Latin
+Spanish Harlem Orchestra,32,Latin
+Chucho Valdés,31,Latin
+Camila,31,Latin
+Anuel Aa,30,Latin
+Joaquina,30,Latin
+Los Enanitos Verdes,30,Latin
+Duki,30,Latin
+La India,24,Latin
+Elvis Martinez,22,Latin
+Los Amigos Invisibles,22,Latin
+Toño Rosario,22,Latin
+AFRO DOMINICANO,21,Latin
+System of a Down,"13,091",Metal
+Korn,"3,015",Metal
+Deftones,"2,798",Metal
+GHOST,"1,575",Metal
+Linkin Park,605,Metal
+Bullet for My Valentine,601,Metal
+Disturbed,600,Metal
+Ice Nine Kills,540,Metal
+Three Days Grace,496,Metal
+Meshuggah,397,Metal
+Spiritbox,370,Metal
+The Plot In You,286,Metal
+Dream Theater,184,Metal
+In Flames,175,Metal
+Sevendust,174,Metal
+Trivium,157,Metal
+Devin Townsend,157,Metal
+Machine Head,156,Metal
+Cannibal Corpse,147,Metal
+Arch Enemy,131,Metal
+August Burns Red,129,Metal
+Catch Your Breath,128,Metal
+Alcest,118,Metal
+Between the Buried and Me,117,Metal
+Make Them Suffer,112,Metal
+Napalm Death,107,Metal
+Obituary,97,Metal
+LANDMVRKS,96,Metal
+Boy Harsher,95,Metal
+Paleface Swiss,93,Metal
+Shakira,"1,482",Pop
+Oasis,"1,228",Pop
+Charli XCX,"1,156",Pop
+JoJo,"1,010",Pop
+Avril Lavigne,825,Pop
+Teddy Swims,751,Pop
+Gigi Perez,602,Pop
+Franz Ferdinand,571,Pop
+Tate McRae,532,Pop
+Dua Lipa,442,Pop
+Foster the People,383,Pop
+Gracie Abrams,351,Pop
+Olivia Rodrigo,282,Pop
+Devo,267,Pop
+Cleo Sol,262,Pop
+Cameron Winter,262,Pop
+Empire of the Sun,257,Pop
+Goo Goo Dolls,247,Pop
+Simple Plan,246,Pop
+Sleeping With Sirens,240,Pop
+Ichiko Aoba,238,Pop
+James Blunt,234,Pop
+Ella Langley,233,Pop
+Kylie Minogue,214,Pop
+Joey McIntyre,213,Pop
+Refused,838,Punk
+Linkin Park,605,Punk
+Ice Nine Kills,540,Punk
+Nick Cave & The Bad Seeds,510,Punk
+Pierce the Veil,447,Punk
+Chiodos,418,Punk
+Amyl and The Sniffers,406,Punk
+Gang of Four,323,Punk
+Dance Gavin Dance,276,Punk
+Devo,267,Punk
+Dropkick Murphys,266,Punk
+Simple Plan,246,Punk
+Dead Kennedys,243,Punk
+Sleeping With Sirens,240,Punk
+Skegss,149,Punk
+The Front Bottoms,140,Punk
+Billy Idol,131,Punk
+The Damned,127,Punk
+Armor for Sleep,126,Punk
+The Linda Lindas,125,Punk
+Thursday,119,Punk
+Rise Against,116,Punk
+Make Them Suffer,112,Punk
+Bayside,108,Punk
+Patti Smith,104,Punk
+Dirty Projectors,97,Punk
+Quicksand,96,Punk
+Paleface Swiss,93,Punk
+The Menzingers,90,Punk
+The Red Jumpsuit Apparatus,88,Punk
+Poison the Well,87,Punk
+Bad Religion,85,Punk
+Mary J. Blige,591,R&B&Soul
+Hozier,521,R&B&Soul
+Dua Lipa,442,R&B&Soul
+Alicia Keys,356,R&B&Soul
+Jorja Smith,354,R&B&Soul
+The Weeknd,336,R&B&Soul
+SZA,326,R&B&Soul
+Cleo Sol,262,R&B&Soul
+Red NOT Chili Peppers,221,R&B&Soul
+Kylie Minogue,214,R&B&Soul
+Beyoncé,184,R&B&Soul
+Diana Ross,183,R&B&Soul
+Alabama Shakes,170,R&B&Soul
+Vulfpeck,140,R&B&Soul
+Smino,122,R&B&Soul
+Molly Grace,117,R&B&Soul
+Tom Jones,115,R&B&Soul
+Raye,105,R&B&Soul
+grentperez,104,R&B&Soul
+Cécile McLorin Salvant,97,R&B&Soul
+Dirty Projectors,97,R&B&Soul
+Dru Hill,95,R&B&Soul
+Rauw Alejandro,351,Reggae
+Rx Bandits,136,Reggae
+J Balvin,119,Reggae
+Kruder & Dorfmeister,84,Reggae
+Goose (USA),66,Reggae
+Tribal Seeds,60,Reggae
+Pepper,51,Reggae
+Dispatch,45,Reggae
+Los Cafres,38,Reggae
+Stick Figure,34,Reggae
+Spice,33,Reggae
+DENM,32,Reggae
+Duki,30,Reggae
+Slightly Stoopid,29,Reggae
+The Amish Outlaws,27,Reggae
+Iration,23,Reggae
+Matisyahu,23,Reggae
+Kill Lincoln,22,Reggae
+Stephen Marley,22,Reggae
+Simrit,21,Reggae
+AFRO DOMINICANO,21,Reggae
+Mephiskapheles,21,Reggae
+Kabaka Pyramid,20,Reggae
+C.R.O,19,Reggae
+Maverick Sabre,18,Reggae
+Catch 22,17,Reggae
+Sizzla,15,Reggae
+Dexta Daps,15,Reggae
+The Toasters,15,Reggae
+Korn,"3,015",Rock
+Deftones,"2,798",Rock
+Oasis,"1,228",Rock
+Turnover,901,Rock
+Avril Lavigne,825,Rock
+Linkin Park,605,Rock
+Disturbed,600,Rock
+Billy Joel,574,Rock
+Nine Inch Nails,551,Rock
+Nick Cave & The Bad Seeds,510,Rock
+Three Days Grace,496,Rock
+Pierce the Veil,447,Rock
+The Used,435,Rock
+Stevie Nicks,424,Rock
+Amyl and The Sniffers,406,Rock
+Pixies,406,Rock
+Death Cab for Cutie,404,Rock
+Bright Eyes,399,Rock
+Nathaniel Rateliff & The Night Sweats,376,Rock
+St. Vincent,374,Rock
+Palace,368,Rock
+Snow Patrol,305,Rock
+Puscifer,301,Rock
+Dance Gavin Dance,276,Rock
+Hollywood Undead,270,Rock
+Dropkick Murphys,266,Rock
+Heart,264,Rock
+The Black Keys,264,Rock
+Papa Roach,263,Rock
