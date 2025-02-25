@@ -9,8 +9,8 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the script and environment file
-COPY collect_data.py .
-COPY .env .
+COPY collect_data.ipynb .
+COPY data_preprocessing.ipynb .
 
 # Run the script on container startup
 CMD ["python", "collect_data.py"]
